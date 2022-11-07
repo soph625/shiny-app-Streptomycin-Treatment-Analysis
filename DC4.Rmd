@@ -1,0 +1,16 @@
+---
+title: "DS1 - Data Challenge 4"
+author: "Xuyang Liu"
+date: "11/7/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE, fig.align = "center")
+```
+
+[My github link] https://github.com/soph625/shiny-app-Streptomycin-Treatment-Analysis.git
+
+[My shiny app URL] https://sophieliu.shinyapps.io/xuyangliu_dc4/
+
+
