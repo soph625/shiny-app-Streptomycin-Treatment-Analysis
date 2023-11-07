@@ -1,5 +1,5 @@
 ---
-title: "DS1 - Data Challenge 4"
+title: "Project: Streptomycin Treatment Analysis"
 author: "Xuyang Liu"
 date: "11/7/2022"
 output: html_document
